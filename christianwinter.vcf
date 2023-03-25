@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Winter;Christian;;;
+FN:Christian Winter
+ORG:CARIAD SE
+ADR;TYPE=WORK:Ruppertswies 7+9
+85092 Kösching
+Germany
+TITLE:Product Owner Radio apps
+TEL;TYPE=CELL:+4915257714829
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:christian.winter@cariad.technology
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Mastodon:@cecebe@mastodon.social
+URL;TYPE=LinkedIn:https://linkedin.com/in/christian-winter-909a2a54
+URL;TYPE=Spotify:https://open.spotify.com/user/https://spotify.link/cOZzxafAsyb
+URL;TYPE=GitHub:https://github.com/cecebe
+URL;TYPE=Twitter:https://twitter.com/Chris__Winter
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Development entertainment functions for the Volkswagen group
+UID:EnBizCard-100238528
+END:VCARD
